@@ -7,7 +7,7 @@ Bienvenido a mi Github :wink:
 * :relaxed: Me gusta aprender todos los dias cosas nuevas.
 
 
-<p align = "center" > <img src="https://media.tenor.com/O6WrDXUQov8AAAAM/tonikaku-kawai-tonikaku.gif" width="120" height="150" align = "center"> </p>
+<p align = "center" > <img src="[https://media.tenor.com/O6WrDXUQov8AAAAM/tonikaku-kawai-tonikaku.gif](https://steamuserimages-a.akamaihd.net/ugc/243584730414830490/77B8B06E57FE85A2185998323A81EF052BD7A3BD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" width="150" height="150" align = "center"> </p>
 <!--
 **GeovaniRA/GeovaniRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
