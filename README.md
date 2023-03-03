@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1 style = "font-family:courier,arial,helvética;">
+Bienvenido a mi Github :wink:
+</h1>
 
+* :bar_chart: Estudio Actuaría.
+* :books: Estoy aprendiendo Ciencia de Datos.
+* :relaxed: Me gusta aprender todos los dias cosas nuevas.
+
+
+<p align = "center" > <img src="https://media.tenor.com/O6WrDXUQov8AAAAM/tonikaku-kawai-tonikaku.gif" width="120" height="150" align = "center"> </p>
 <!--
 **GeovaniRA/GeovaniRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
