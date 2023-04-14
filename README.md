@@ -7,7 +7,7 @@ Bienvenido a mi Github :wink:
 * :relaxed: Me gusta aprender todos los dias cosas nuevas.
 
 
-<p align = "center" > <img src="https://fjordonez.github.io/t3chfest-arte-ia/static/videos/what_is_ANN_2.gif" width="250" height="150" align = "center"> </p>
+<p align = "center" > <img src="https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif" width="150" height="150" align = "center"> </p>
 <!--
 **GeovaniRA/GeovaniRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
