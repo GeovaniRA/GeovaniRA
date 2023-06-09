@@ -2,7 +2,7 @@
 Bienvenido a mi Github :wink:
 </h1>
 
-* :bar_chart: Estudio Actuaría.
+* :bar_chart: Soy Pasante de Actuaría.
 * :books: Estoy aprendiendo Ciencia de Datos.
 * :relaxed: Me gusta aprender todos los dias cosas nuevas.
 
