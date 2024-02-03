@@ -2,9 +2,9 @@
 Bienvenido a mi Github :wink:
 </h1>
 
-* :bar_chart: Soy Pasante de Actuaría.
-* :books: Estoy aprendiendo Ciencia de Datos.
-* :relaxed: Me gusta aprender todos los dias cosas nuevas.
+*  📝 Soy Pasante de Actuaría.
+*  📊 Apasionado por las finanzas bursatiles y ciencia de datos
+*  📔 Me gusta aprender todos los dias cosas nuevas.
 
 
 <p align = "center" > <img src="https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif" width="150" height="150" align = "center"> </p>
