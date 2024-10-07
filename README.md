@@ -2,7 +2,7 @@
 Bienvenido a mi Github :wink:
 </h1>
 
-*  📝 Soy Pasante de Actuaría.
+*  📝 Actuario
 *  📊 Apasionado por las finanzas bursatiles y ciencia de datos
 *  📔 Me gusta aprender todos los dias cosas nuevas.
 
